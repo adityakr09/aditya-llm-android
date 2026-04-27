@@ -16,7 +16,11 @@ Built as part of a take-home task for MetaMenu to demonstrate end-to-end mobile 
 
 | App Launch | App Installed | App Info |
 |---|---|---|
-| ![App Launch](docs/screenshot1.png) | ![App Installed](docs/screenshot2.png) | ![App Info](docs/screenshot3.png) |
+| <img width="250" height="532" alt="Screenshot 2026-04-27 110327" src="https://github.com/user-attachments/assets/55e37ad2-5c92-48cf-9c5e-c5f223da9f38" />
+| <img width="238" height="511" alt="Screenshot 2026-04-27 110303" src="https://github.com/user-attachments/assets/f9165dcb-26a2-4b06-9fcf-b4c6f3530fb4" />
+| <img width="294" height="555" alt="image" src="https://github.com/user-attachments/assets/8941a33c-f1cf-4ed1-b0c2-a3f5871cb42b" />
+| <img width="251" height="535" alt="Screenshot 2026-04-27 110244" src="https://github.com/user-attachments/assets/0d5930c9-7f11-4bda-9a43-bd3abd868bf9" />
+
 
 ---
 
