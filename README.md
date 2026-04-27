@@ -17,10 +17,7 @@ Built as part of a take-home task for MetaMenu to demonstrate end-to-end mobile 
 
 | App Launch | Checking Info | App Info |
 |---|---|---|
-| ![App Launch](<img width="251" height="535" alt="image" src="https://github.com/user-attachments/assets/d4697d11-ac3b-42a9-85d3-d5a9eee528e2" />
-) | ![Checking Info](<img width="250" height="532" alt="image" src="https://github.com/user-attachments/assets/1db95d5a-fbcf-437b-a253-bc5a89703a74" />
-) | ![App Info](<img width="238" height="511" alt="image" src="https://github.com/user-attachments/assets/2785bf62-8284-425a-8564-f9f00ca4e480" />
-) |
+| ![App Launch](<img width="251" height="535" alt="image" src="https://github.com/user-attachments/assets/d4697d11-ac3b-42a9-85d3-d5a9eee528e2" />) | ![Checking Info](<img width="250" height="532" alt="image" src="https://github.com/user-attachments/assets/1db95d5a-fbcf-437b-a253-bc5a89703a74" />) | ![App Info](<img width="238" height="511" alt="image" src="https://github.com/user-attachments/assets/2785bf62-8284-425a-8564-f9f00ca4e480" />) |
 
 
 
