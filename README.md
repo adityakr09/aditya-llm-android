@@ -14,8 +14,7 @@ Built as part of a take-home task for MetaMenu to demonstrate end-to-end mobile 
 
 ## 🎥 Demo
 
-| App Launch | App Installed | App Info |
-|---|---|---|
+
 | <img width="250" height="532" alt="Screenshot 2026-04-27 110327" src="https://github.com/user-attachments/assets/55e37ad2-5c92-48cf-9c5e-c5f223da9f38" />
 | <img width="238" height="511" alt="Screenshot 2026-04-27 110303" src="https://github.com/user-attachments/assets/f9165dcb-26a2-4b06-9fcf-b4c6f3530fb4" />
 | <img width="294" height="555" alt="image" src="https://github.com/user-attachments/assets/8941a33c-f1cf-4ed1-b0c2-a3f5871cb42b" />
